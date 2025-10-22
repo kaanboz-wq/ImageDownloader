@@ -1,4 +1,4 @@
-@MyWebApi_HostAddress = http://localhost:5118
+@MyWebApi_HostAddress = http://localhost:5100
 
 GET {{MyWebApi_HostAddress}}/getimage/
 Accept: application/json
